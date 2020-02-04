@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 5151ca7c016084040a3a7e9d6c4ec411
+  - enabled: 1
+    path: Assets/Scenes/TheMainHall.unity
+    guid: d020712f136e4df4d88c8e8c6451d145
+  - enabled: 1
+    path: Assets/Scenes/TheHallwayChase.unity
+    guid: 083c314e4bb3c054099035081af58355
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 2ecdfcf6d08d01a468421434d2727ec1
+  - enabled: 1
+    path: Assets/Scenes/HolkSmush.unity
+    guid: 4ac3cd84012a8e241b2c2de55049fedd
+  - enabled: 1
+    path: Assets/Scenes/PikachuMaze.unity
+    guid: b27d194d6974d3a41a4724aa5695511d
+  - enabled: 1
+    path: Assets/Scenes/Epilogue.unity
+    guid: a59f2de55972ea54bb1ec935a4b53147
